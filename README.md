@@ -14,6 +14,19 @@ Todo o restante do site é fixo e não deve ser alterado através do Sanity.
 ➡️ [Teko Ara Ava Guarani](https://semana-cultural-six.vercel.app/)
 ---
 
+## 👨‍🏫 Informações Acadêmicas
+
+- **Curso:** Análise e Desenvolvimento de Sistemas (ADS)  
+- **Instituição:** BioPark - Faculdade Donaduzzi  
+- **Data:** Novembro de 2025  
+- **Grupo 5:**  
+  - Nicole Erthal Morona
+  - Arthur Paludo Berwanger
+  - Joelson Junior Gomes da Silva
+  - Matheus Manfroi
+  - Polyana Trentin
+  - Gustavo Perez Queiroz
+
 ## 🚀 Seções que Podem Ser Editadas
 
 ### ✔ Eventos
