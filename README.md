@@ -7,6 +7,13 @@ Todo o restante do site é fixo e não deve ser alterado através do Sanity.
 
 ---
 
+## 🌿 Teko Ara Ava Guarani – Semana Cultural Indígena
+
+> **Site oficial da Semana Cultural Indígena Guarani**, realizada anualmente em Diamante D'Oeste, PR, desde 2006. Um espaço digital para preservar, divulgar e fortalecer a cultura, língua e tradições do povo Guarani.
+
+➡️ [Teko Ara Ava Guarani](https://semana-cultural-six.vercel.app/)
+---
+
 ## 🚀 Seções que Podem Ser Editadas
 
 ### ✔ Eventos
